@@ -1,0 +1,14 @@
+gems:
+  - jekyll-seo-tag
+
+title: ClrLive - You Deserve to Know
+description: A way to see anything you deserve to, promoting transparency.
+url: https://clrlive.github.io
+author: ClrLive
+twitter:
+  username: clrlive
+facebook:
+  app_id: 106474723116135
+  publisher: https://www.facebook.com/clrliveapp
+logo: /favicon.ico
+image: /favicon.ico
